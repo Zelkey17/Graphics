@@ -1,0 +1,3 @@
+/home/ash/Рабочий стол/Studing/c++/Pracs/Graphics/CMakeFiles/Graphics.dir
+/home/ash/Рабочий стол/Studing/c++/Pracs/Graphics/CMakeFiles/edit_cache.dir
+/home/ash/Рабочий стол/Studing/c++/Pracs/Graphics/CMakeFiles/rebuild_cache.dir
